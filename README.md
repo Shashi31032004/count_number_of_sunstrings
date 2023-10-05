@@ -1,5 +1,5 @@
 # count_number_of_sunstrings
-java programming
+C++ programming
 
 
 Count number of substrings
